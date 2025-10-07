@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Engr Jeet</h1>
 <p align="center">
-  <em>Ethical Hacker | Python Developer | Tech Enthusiast</em>
+  <em>Ethical Hacker | Cyber Security Expert | Tech Enthusiast</em>
 </p>
 
 <p align="center">
